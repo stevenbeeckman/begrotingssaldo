@@ -1,0 +1,66 @@
+{
+	"governments":
+		[
+			{
+				"name": "Di Rupo"
+				, "begin": "2011-12-06"
+				, "participants":
+					[
+						{
+							"name": "PS"
+							, "color": "red"
+						}
+						,{
+							"name": "sp.a"
+							, "color": "red"
+						}
+						,{
+							"name": "CD&V"
+							, "color": "orange"
+						}
+						,{
+							"name": "cdH"
+							, "color": "orange"
+						}
+						,{
+							"name": "Open Vld"
+							, "color": "blue"
+						}
+						,{
+							"name": "MR"
+							, "color": "blue"
+						}
+						,
+					]
+			}
+			, {
+				"name": "Leterme II"
+				, "begin": "2009-11-25"
+				, "end": "2011-12-06"
+				, "participants":
+					[
+						{
+							"name": "PS"
+							, "color": "red"
+						}
+						,{
+							"name": "CD&V"
+							, "color": "orange"
+						}
+						,{
+							"name": "cdH"
+							, "color": "orange"
+						}
+						,{
+							"name": "Open Vld"
+							, "color": "blue"
+						}
+						,{
+							"name": "MR"
+							, "color": "blue"
+						}
+						,
+					]
+			}
+		]
+}
